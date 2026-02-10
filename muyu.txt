@@ -58,24 +58,24 @@ CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqx.m3u8?auth=testpub
 
-CCTV1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV8,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV10,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV12,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV13,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV1HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV2HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV3HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV4HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV5HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV5+HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV6HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV7HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV8HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV9HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV10HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV11HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV12HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV13HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV14HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV15HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV16HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
+CCTV17HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 湖南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 浙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 江苏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225722/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
@@ -114,14 +114,11 @@ CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetyp
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 兵团卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 
-
-
-
 ★MY影视★央视频①,#genre#
 
-
-电视家极速版QQ群499155545,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-电视家极速版QQ群499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
+电视家极速版,https://gitee.com/mimi756/YingShi/raw/master/jinma20260202-.mp4
+用户请加QQ群,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 1905电影网B,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 
 电视家极速版QQ群499155545,http://php.jdshipin.com:8880/1905.php?id=1905dy
