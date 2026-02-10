@@ -116,9 +116,6 @@ CCTV17HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicet
 甘肃卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
 兵团卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&amp;IASHttpSessionId=OTT
-
-★MY影视★央视频①,#genre#
-
 电视家极速版,https://gitee.com/mimi756/YingShi/raw/master/jinma20260202-.mp4
 欢迎加QQ群,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
@@ -128,64 +125,12 @@ CCTV17HD,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicet
 1905电影网B,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 电视家极速版QQ群499155545,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 电视家极速版QQ群499155545,http://php.jdshipin.com/1905.php
-CCTV1综合,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv1
-CCTV2-财经,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv2
-CCTV3-综艺,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv3
-CCTV4-中文国际,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv4
-CCTV5-体育,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv5
-CCTV6-电影,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv6
-CCTV7-军事农业,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv7
-CCTV8-电视剧,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv8
-CCTV9-记录,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv9
-CCTV-10,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv10
-CCTV11-戏曲,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv11
-CCTV12-社会与法,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv12
-CCTV13-新闻,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv13
-CCTV14-少儿,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=cctv14
-
-
-云南卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=ynws
-云南少儿高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1044
-CHC动作电影高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1049
-深圳卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=szws
-高尔夫网球高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1058
-央视台球高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1052
-体育赛事高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1062
-江苏卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=jsws
-风云剧场高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1059
-湖南卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=hunanws
-湖北卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=hbws
-女性时尚高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1056
-北京卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=bjws
-安徽卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=ahws
-风云音乐高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1046
-河南卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=hnws
-金鹰纪实高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1021
-吉林卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=jlws
-茶频道高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1057
-辽宁卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=lnws
-甘肃卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=gsws
-风云足球高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1045
-东方卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=dfws
-广东卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=gdws
-兵器科技高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1047
-天津卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=tjws
-浙江卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=zjws
-贵州卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=gzws
-江西卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=jxws
-东南卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=dnws
-黑龙江卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=hljws
-怀旧剧场高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1053
-四川卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=scws
-世界地理高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1061
-快乐垂钓高清,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=live1051
-山东卫视,http://nn.7x9d.cn/mk.php?ip=61.166.174.43:8014&id=sdws
-
-████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 ★MY影视★极速央视,#genre#
 
-
+电视家极速版,https://gitee.com/mimi756/YingShi/raw/master/jinma20260202-.mp4
+欢迎加QQ群,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 
 
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -210,7 +155,9 @@ CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 
 
 ★MY影视★港澳台②,#genre#
-
+电视家极速版,https://gitee.com/mimi756/YingShi/raw/master/jinma20260202-.mp4
+欢迎加QQ群,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 
 
 亚洲卫视频道,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
@@ -291,6 +238,9 @@ ASTV亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 
 ★MY影视★大陆频道,#genre#
 
+电视家极速版,https://gitee.com/mimi756/YingShi/raw/master/jinma20260202-.mp4
+欢迎加QQ群,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+499155545,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 
 
 CCTV-1HD,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
